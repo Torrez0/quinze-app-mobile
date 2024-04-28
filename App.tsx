@@ -16,7 +16,7 @@ export default function App() {
     <NativeBaseProvider theme={TEMAS}>
       <StatusBar backgroundColor={TEMAS.colors.black} />
       <Rotas/>
-    </NativeBaseProvider>
+    </NativeBaseProvider> 
 
 
   );
